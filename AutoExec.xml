@@ -15,7 +15,7 @@
 	<register silent="true" event="chat_tell_Kiakasha_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Kiakasha_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Kiakasha_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Kiakasha_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Kiakasha_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Kiakasha_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Kiakasha_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Kiakasha_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -30,7 +30,7 @@
 	<register silent="true" event="chat_tell_Kiakasha_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Kiakasha_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Kiakasha_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Kiakasha_give_leader_Merils">input /pcmd leader Merils</register>
+	<register silent="true" event="chat_tell_Kiakasha_give_leader_Neauce">input /pcmd leader Neauce</register>
 	<register silent="true" event="chat_tell_Kiakasha_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Kiakasha_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Kiakasha_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
@@ -54,7 +54,7 @@
 	<register silent="true" event="chat_tell_Onmitsu_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Onmitsu_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Onmitsu_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Onmitsu_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Onmitsu_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Onmitsu_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Onmitsu_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Onmitsu_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -69,7 +69,7 @@
 	<register silent="true" event="chat_tell_Onmitsu_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Onmitsu_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Onmitsu_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Onmitsu_give_leader_Merils">input /pcmd leader Merils</register>
+	<register silent="true" event="chat_tell_Onmitsu_give_leader_Neauce">input /pcmd leader Neauce</register>
 	<register silent="true" event="chat_tell_Onmitsu_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Onmitsu_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Onmitsu_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
@@ -94,7 +94,7 @@
 	<register silent="true" event="chat_tell_Shua_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Shua_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Shua_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Shua_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Shua_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Shua_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Shua_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Shua_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -109,7 +109,7 @@
 	<register silent="true" event="chat_tell_Shua_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Shua_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Shua_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Shua_give_leader_Merils">input /pcmd leader Merils</register>
+	<register silent="true" event="chat_tell_Shua_give_leader_Neauce">input /pcmd leader Neauce</register>
 	<register silent="true" event="chat_tell_Shua_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Shua_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Shua_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
@@ -133,7 +133,7 @@
 	<register silent="true" event="chat_tell_Shadowabuser_invite_Onmitsu">input /pcmd add Onmitsu</register>
 	<register silent="true" event="chat_tell_Shadowabuser_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Shadowabuser_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Shadowabuser_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Shadowabuser_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Shadowabuser_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Shadowabuser_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Shadowabuser_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -148,7 +148,7 @@
 	<register silent="true" event="chat_tell_Shadowabuser_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Shadowabuser_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Shadowabuser_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Shadowabuser_give_leader_Merils">input /pcmd leader Merils</register>
+	<register silent="true" event="chat_tell_Shadowabuser_give_leader_Neauce">input /pcmd leader Neauce</register>
 	<register silent="true" event="chat_tell_Shadowabuser_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Shadowabuser_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Shadowabuser_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
@@ -170,7 +170,7 @@
 	<register silent="true" event="chat_tell_Babylucia_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Babylucia_invite_Onmitsu">input /pcmd add Onmitsu</register>
 	<register silent="true" event="chat_tell_Babylucia_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Babylucia_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Babylucia_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Babylucia_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Babylucia_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Babylucia_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -193,7 +193,7 @@
 	<register silent="true" event="chat_tell_Odyesseus_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Odyesseus_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Odyesseus_invite_Onmitsu">input /pcmd add Onmitsu</register>
-	<register silent="true" event="chat_tell_Odyesseus_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Odyesseus_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Odyesseus_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Odyesseus_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Odyesseus_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -208,7 +208,7 @@
 	<register silent="true" event="chat_tell_Odyesseus_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Odyesseus_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Odyesseus_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Odyesseus_give_leader_Merils">input /pcmd leader Merils</register>
+	<register silent="true" event="chat_tell_Odyesseus_give_leader_Neauce">input /pcmd leader Neauce</register>
 	<register silent="true" event="chat_tell_Odyesseus_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Odyesseus_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Odyesseus_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
@@ -219,43 +219,43 @@
 	
 	<!---- end Odyesseus commands section -->
 	
-	<!---- Merils commands section -->
-    <register silent="true" event="chat_tell_Merils_drop">input /pcmd leave</register>
-	<register silent="true" event="chat_tell_Merils_leader">input /pcmd leader Merils</register>
-	<register silent="true" event="chat_tell_Merils_notrusts">input /refa all</register>
-	<register silent="true" event="chat_tell_Merils_allianceme">input /acmd add Merils</register>
+	<!---- Neauce commands section -->
+    <register silent="true" event="chat_tell_Neauce_drop">input /pcmd leave</register>
+	<register silent="true" event="chat_tell_Neauce_leader">input /pcmd leader Neauce</register>
+	<register silent="true" event="chat_tell_Neauce_notrusts">input /refa all</register>
+	<register silent="true" event="chat_tell_Neauce_allianceme">input /acmd add Neauce</register>
 	<!---- invite commands --->
-	<register silent="true" event="chat_tell_Merils_invite_Merils">input /pcmd add Merils</register>
-	<register silent="true" event="chat_tell_Merils_invite_Kiakasha">input /pcmd add Kiakasha</register>
-	<register silent="true" event="chat_tell_Merils_invite_Shua">input /pcmd add Shua</register>
-	<register silent="true" event="chat_tell_Merils_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
-	<register silent="true" event="chat_tell_Merils_invite_Babylucia">input /pcmd add Babylucia</register>
-	<register silent="true" event="chat_tell_Merils_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Merils_invite_Onmitsu">input /pcmd add Onmitsu</register>
-	<register silent="true" event="chat_tell_Merils_invite_Zekky">input /pcmd add Zekky</register>
-	<register silent="true" event="chat_tell_Merils_invite_Wrote">input /pcmd add Wrote</register>
-	<register silent="true" event="chat_tell_Merils_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
-	<register silent="true" event="chat_tell_Merils_invite_Helpmeowtpureas">input /pcmd add Helpmeowtpureas</register>
-	<register silent="true" event="chat_tell_Merils_invite_Ratedmature">input /pcmd add Ratedmature</register>
-	<register silent="true" event="chat_tell_Merils_invite_Azzriel">input /pcmd add Azzriel</register>
-	<register silent="true" event="chat_tell_Merils_invite_Maestro">input /pcmd add Maestro</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Neauce">input /pcmd add Neauce</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Kiakasha">input /pcmd add Kiakasha</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Shua">input /pcmd add Shua</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Babylucia">input /pcmd add Babylucia</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Odyesseus">input /pcmd add Odyesseus</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Onmitsu">input /pcmd add Onmitsu</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Zekky">input /pcmd add Zekky</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Wrote">input /pcmd add Wrote</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Helpmeowtpureas">input /pcmd add Helpmeowtpureas</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Ratedmature">input /pcmd add Ratedmature</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Azzriel">input /pcmd add Azzriel</register>
+	<register silent="true" event="chat_tell_Neauce_invite_Maestro">input /pcmd add Maestro</register>
 	<!---- change leader commands --->
-	<register silent="true" event="chat_tell_Merils_give_leader_Onmitsu">input /pcmd leader Onmitsu</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Kiakasha">input /pcmd leader Kiakasha</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Shua">input /pcmd leader Shua</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Babylucia">input /pcmd leader Babylucia</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Merils">input /pcmd leader Merils</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Zekky">input /pcmd leader Zekky</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Wrote">input /pcmd leader Wrote</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Helpmeowtpureas">input /pcmd leader Helpmeowtpureas</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Ratedmature">input /pcmd leader Ratedmature</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Azzriel">input /pcmd leader Azzriel</register>
-	<register silent="true" event="chat_tell_Merils_give_leader_Maestro">input /pcmd leader Maestro</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Onmitsu">input /pcmd leader Onmitsu</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Kiakasha">input /pcmd leader Kiakasha</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Shua">input /pcmd leader Shua</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Babylucia">input /pcmd leader Babylucia</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Neauce">input /pcmd leader Neauce</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Zekky">input /pcmd leader Zekky</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Wrote">input /pcmd leader Wrote</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Helpmeowtpureas">input /pcmd leader Helpmeowtpureas</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Ratedmature">input /pcmd leader Ratedmature</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Azzriel">input /pcmd leader Azzriel</register>
+	<register silent="true" event="chat_tell_Neauce_give_leader_Maestro">input /pcmd leader Maestro</register>
 	
-	<!---- end Merils commands section -->
+	<!---- end Neauce commands section -->
 	
 	
 	<!---- Zekky commands section -->
@@ -270,7 +270,7 @@
 	<register silent="true" event="chat_tell_Zekky_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Zekky_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Zekky_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Zekky_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Zekky_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Zekky_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Zekky_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Zekky_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -285,7 +285,7 @@
 	<register silent="true" event="chat_tell_Maestro_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Maestro_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Maestro_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Merils">input /pcmd leader Merils</register>
+	<register silent="true" event="chat_tell_Maestro_give_leader_Neauce">input /pcmd leader Neauce</register>
 	<register silent="true" event="chat_tell_Maestro_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Maestro_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Maestro_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
@@ -308,7 +308,7 @@
 	<register silent="true" event="chat_tell_Wrote_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Wrote_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Wrote_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Wrote_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Wrote_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Wrote_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Wrote_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Wrote_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -323,7 +323,7 @@
 	<register silent="true" event="chat_tell_Wrote_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Wrote_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Wrote_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Wrote_give_leader_Merils">input /pcmd leader Merils</register>
+	<register silent="true" event="chat_tell_Wrote_give_leader_Neauce">input /pcmd leader Neauce</register>
 	<register silent="true" event="chat_tell_Wrote_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Wrote_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Wrote_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
@@ -346,7 +346,7 @@
 	<register silent="true" event="chat_tell_Lucreziaborgia_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Lucreziaborgia_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Lucreziaborgia_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Lucreziaborgia_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Lucreziaborgia_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Lucreziaborgia_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Lucreziaborgia_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Lucreziaborgia_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -369,7 +369,7 @@
 	<register silent="true" event="chat_tell_Helpmeowtpureas_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Helpmeowtpureas_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Helpmeowtpureas_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Helpmeowtpureas_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Helpmeowtpureas_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Helpmeowtpureas_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Helpmeowtpureas_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Helpmeowtpureas_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -384,7 +384,7 @@
 	<register silent="true" event="chat_tell_Helpmeowtpureas_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Helpmeowtpureas_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Helpmeowtpureas_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Helpmeowtpureas_give_leader_Merils">input /pcmd leader Merils</register>
+	<register silent="true" event="chat_tell_Helpmeowtpureas_give_leader_Neauce">input /pcmd leader Neauce</register>
 	<register silent="true" event="chat_tell_Helpmeowtpureas_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Helpmeowtpureas_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Helpmeowtpureas_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
@@ -406,7 +406,7 @@
 	<register silent="true" event="chat_tell_Ratedmature_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Ratedmature_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Ratedmature_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Ratedmature_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Ratedmature_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Ratedmature_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Ratedmature_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Ratedmature_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -421,7 +421,7 @@
 	<register silent="true" event="chat_tell_Ratedmature_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Ratedmature_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Ratedmature_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Ratedmature_give_leader_Merils">input /pcmd leader Merils</register>
+	<register silent="true" event="chat_tell_Ratedmature_give_leader_Neauce">input /pcmd leader Neauce</register>
 	<register silent="true" event="chat_tell_Ratedmature_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Ratedmature_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Ratedmature_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
@@ -443,7 +443,7 @@
 	<register silent="true" event="chat_tell_Azzriel_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Azzriel_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Azzriel_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Azzriel_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Azzriel_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Azzriel_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Azzriel_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Azzriel_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -458,7 +458,7 @@
 	<register silent="true" event="chat_tell_Azzriel_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Azzriel_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Azzriel_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Azzriel_give_leader_Merils">input /pcmd leader Merils</register>
+	<register silent="true" event="chat_tell_Azzriel_give_leader_Neauce">input /pcmd leader Neauce</register>
 	<register silent="true" event="chat_tell_Azzriel_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Azzriel_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Azzriel_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
@@ -481,7 +481,7 @@
 	<register silent="true" event="chat_tell_Maestro_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
 	<register silent="true" event="chat_tell_Maestro_invite_Babylucia">input /pcmd add Babylucia</register>
 	<register silent="true" event="chat_tell_Maestro_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Maestro_invite_Merils">input /pcmd add Merils</register>
+	<register silent="true" event="chat_tell_Maestro_invite_Neauce">input /pcmd add Neauce</register>
 	<register silent="true" event="chat_tell_Maestro_invite_Zekky">input /pcmd add Zekky</register>
 	<register silent="true" event="chat_tell_Maestro_invite_Wrote">input /pcmd add Wrote</register>
 	<register silent="true" event="chat_tell_Maestro_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
@@ -496,7 +496,7 @@
 	<register silent="true" event="chat_tell_Maestro_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Maestro_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Maestro_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Merils">input /pcmd leader Merils</register>
+	<register silent="true" event="chat_tell_Maestro_give_leader_Neauce">input /pcmd leader Neauce</register>
 	<register silent="true" event="chat_tell_Maestro_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Maestro_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Maestro_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
@@ -506,44 +506,44 @@
 	<register silent="true" event="chat_tell_Maestro_give_leader_Maestro">input /pcmd leader Maestro</register>
 	<!---- end Maestro commands section -->
 	
-	<!---- Ihatethizzle commands section -->
-    <register silent="true" event="chat_tell_Ihatethizzle_drop">input /pcmd leave</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_leader">input /pcmd leader Maestro</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_notrusts">input /refa all</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_allianceme">input /acmd add Maestro</register>
+	<!---- Aurella commands section -->
+    <register silent="true" event="chat_tell_Aurella_drop">input /pcmd leave</register>
+	<register silent="true" event="chat_tell_Aurella_leader">input /pcmd leader Maestro</register>
+	<register silent="true" event="chat_tell_Aurella_notrusts">input /refa all</register>
+	<register silent="true" event="chat_tell_Aurella_allianceme">input /acmd add Maestro</register>
 	<!---- invite commands --->
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Onmitsu">input /pcmd add Onmitsu</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Kiakasha">input /pcmd add Kiakasha</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Shua">input /pcmd add Shua</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Babylucia">input /pcmd add Babylucia</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Odyesseus">input /pcmd add Odyesseus</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Merils">input /pcmd add Merils</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Zekky">input /pcmd add Zekky</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Wrote">input /pcmd add Wrote</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Helpmeowtpureas">input /pcmd add Helpmeowtpureas</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Ratedmature">input /pcmd add Ratedmature</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Azzriel">input /pcmd add Azzriel</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_invite_Maestro">input /pcmd add Maestro</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Onmitsu">input /pcmd add Onmitsu</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Kiakasha">input /pcmd add Kiakasha</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Shua">input /pcmd add Shua</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Shadowabuser">input /pcmd add Shadowabuser</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Babylucia">input /pcmd add Babylucia</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Odyesseus">input /pcmd add Odyesseus</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Neauce">input /pcmd add Neauce</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Zekky">input /pcmd add Zekky</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Wrote">input /pcmd add Wrote</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Lucreziaborgia">input /pcmd add Lucreziaborgia</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Helpmeowtpureas">input /pcmd add Helpmeowtpureas</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Ratedmature">input /pcmd add Ratedmature</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Azzriel">input /pcmd add Azzriel</register>
+	<register silent="true" event="chat_tell_Aurella_invite_Maestro">input /pcmd add Maestro</register>
 	<!---- change leader commands --->
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Onmitsu">input /pcmd leader Onmitsu</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Kiakasha">input /pcmd leader Kiakasha</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Shua">input /pcmd leader Shua</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Babylucia">input /pcmd leader Babylucia</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Merils">input /pcmd leader Merils</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Zekky">input /pcmd leader Zekky</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Wrote">input /pcmd leader Wrote</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Helpmeowtpureas">input /pcmd leader Helpmeowtpureas</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Ratedmature">input /pcmd leader Ratedmature</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Azzriel">input /pcmd leader Azzriel</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_give_leader_Maestro">input /pcmd leader Maestro</register>
-	<!---- end Ihatethizzle commands section -->
+	<register silent="true" event="chat_tell_Aurella_give_leader_Onmitsu">input /pcmd leader Onmitsu</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Kiakasha">input /pcmd leader Kiakasha</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Shua">input /pcmd leader Shua</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Babylucia">input /pcmd leader Babylucia</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Neauce">input /pcmd leader Neauce</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Zekky">input /pcmd leader Zekky</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Wrote">input /pcmd leader Wrote</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Helpmeowtpureas">input /pcmd leader Helpmeowtpureas</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Ratedmature">input /pcmd leader Ratedmature</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Azzriel">input /pcmd leader Azzriel</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Maestro">input /pcmd leader Maestro</register>
+	<!---- end Aurella commands section -->
 	
 	<!---- Voidwatch Commands, very much experimental.. ---->
-	<register silent="true" event="chat_tell_Ihatethizzle_vwgo">input //vw start</register>
-	<register silent="true" event="chat_tell_Ihatethizzle_vwstop">input //vw stop</register>
+	<register silent="true" event="chat_tell_Aurella_vwgo">input //vw start</register>
+	<register silent="true" event="chat_tell_Aurella_vwstop">input //vw stop</register>
 </autoexec>
