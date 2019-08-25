@@ -279,20 +279,20 @@
 	<register silent="true" event="chat_tell_Zekky_invite_Azzriel">input /pcmd add Azzriel</register>
 	<register silent="true" event="chat_tell_Zekky_invite_Maestro">input /pcmd add Maestro</register>
 	<!---- change leader commands --->
-	<register silent="true" event="chat_tell_Maestro_give_leader_Onmitsu">input /pcmd leader Onmitsu</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Kiakasha">input /pcmd leader Kiakasha</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Shua">input /pcmd leader Shua</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Babylucia">input /pcmd leader Babylucia</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Neauce">input /pcmd leader Neauce</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Zekky">input /pcmd leader Zekky</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Wrote">input /pcmd leader Wrote</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Helpmeowtpureas">input /pcmd leader Helpmeowtpureas</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Ratedmature">input /pcmd leader Ratedmature</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Azzriel">input /pcmd leader Azzriel</register>
-	<register silent="true" event="chat_tell_Maestro_give_leader_Maestro">input /pcmd leader Maestro</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Onmitsu">input /pcmd leader Onmitsu</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Kiakasha">input /pcmd leader Kiakasha</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Shua">input /pcmd leader Shua</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Babylucia">input /pcmd leader Babylucia</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Neauce">input /pcmd leader Neauce</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Zekky">input /pcmd leader Zekky</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Wrote">input /pcmd leader Wrote</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Helpmeowtpureas">input /pcmd leader Helpmeowtpureas</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Ratedmature">input /pcmd leader Ratedmature</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Azzriel">input /pcmd leader Azzriel</register>
+	<register silent="true" event="chat_tell_Zekky_give_leader_Maestro">input /pcmd leader Maestro</register>
 	<!---- end Zekky commands section -->
 	
 	
@@ -508,9 +508,9 @@
 	
 	<!---- Aurella commands section -->
     <register silent="true" event="chat_tell_Aurella_drop">input /pcmd leave</register>
-	<register silent="true" event="chat_tell_Aurella_leader">input /pcmd leader Maestro</register>
+	<register silent="true" event="chat_tell_Aurella_leader">input /pcmd leader Aurella</register>
 	<register silent="true" event="chat_tell_Aurella_notrusts">input /refa all</register>
-	<register silent="true" event="chat_tell_Aurella_allianceme">input /acmd add Maestro</register>
+	<register silent="true" event="chat_tell_Aurella_allianceme">input /acmd add Aurella</register>
 	<!---- invite commands --->
 	<register silent="true" event="chat_tell_Aurella_invite_Onmitsu">input /pcmd add Onmitsu</register>
 	<register silent="true" event="chat_tell_Aurella_invite_Kiakasha">input /pcmd add Kiakasha</register>
@@ -533,7 +533,7 @@
 	<register silent="true" event="chat_tell_Aurella_give_leader_Shadowabuser">input /pcmd leader Shadowabuser</register>
 	<register silent="true" event="chat_tell_Aurella_give_leader_Babylucia">input /pcmd leader Babylucia</register>
 	<register silent="true" event="chat_tell_Aurella_give_leader_Odyesseus">input /pcmd leader Odyesseus</register>
-	<register silent="true" event="chat_tell_Aurella_give_leader_Neauce">input /pcmd leader Neauce</register>
+	<register silent="true" event="chat_tell_Aurella_give_leader_Neauce">input /pcmd leader =Neauce</register>
 	<register silent="true" event="chat_tell_Aurella_give_leader_Zekky">input /pcmd leader Zekky</register>
 	<register silent="true" event="chat_tell_Aurella_give_leader_Wrote">input /pcmd leader Wrote</register>
 	<register silent="true" event="chat_tell_Aurella_give_leader_Lucreziaborgia">input /pcmd leader Lucreziaborgia</register>
